@@ -11,5 +11,5 @@ import { HomepageComponent } from "./homepage/homepage.component";
   
 })
 export class AppComponent {
-  title = 'My Catchy Online Store'; // Update the title here
+  title = 'Expert webshop'; // Update the title here
 }
